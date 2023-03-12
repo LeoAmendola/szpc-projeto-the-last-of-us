@@ -1,0 +1,6 @@
+/* global */
+@import "./global.css";
+/* Main */
+@import "./main.css";
+/*Responsive*/
+@import "/src/css/responsive.css";
