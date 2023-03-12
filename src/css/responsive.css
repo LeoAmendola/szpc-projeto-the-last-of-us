@@ -13,11 +13,11 @@
   .info .descricao {
     width: 60%;
     text-align: center;
-  } 
+  }
 }
 
 @media (max-width: 425px) {
-  body{
+  body {
     padding: 40px;
   }
   .info .logo {
@@ -26,7 +26,6 @@
   .info .descricao {
     width: 100%;
     font-size: 1.25rem;
-
   }
 
   .menu-lat {
@@ -40,8 +39,8 @@
     flex-direction: row;
   }
 
- .content{
+  .content {
     min-height: 70vh;
-  gap: 50px;
+    gap: 50px;
   }
 }
